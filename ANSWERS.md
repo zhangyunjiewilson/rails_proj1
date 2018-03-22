@@ -24,6 +24,8 @@ This is the path that directs to the trainer's page.
 
 The user cannot the use the same name on the same pokemon multiple times.
 
+https://github.com/zhangyunjiezimmer/rails_proj1.git
+
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
